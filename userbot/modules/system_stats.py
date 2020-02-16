@@ -127,7 +127,6 @@ async def amireallyalive(alive):
                      f"= Hi Bitch I Am Alive 🤖         =\n"
                      f"= My Boss Are Here🕴️             =\n"
                      f"= Userbot Version  : 10.8.3      =\n"             =\n"
-                     f"= Database Status  : {db}        =\n"
                      f"=================================="
                      "`")
 
