@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MyPaperPlane/Telegram-UserBot",
+  "repository": "https://github.com/romman001/Telegram-UserBot/tree/patch-1",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-07-24",
   "success_url": "https://t.me/PaperplaneExtended",
   "env": {
